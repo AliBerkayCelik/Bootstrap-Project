@@ -1,0 +1,16 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav{
+    font-size: 18px;
+    color:black
+}
+.period{
+    margin-left: 80px;
+}
+.list-group-item{
+    font-size:20px;
+}
